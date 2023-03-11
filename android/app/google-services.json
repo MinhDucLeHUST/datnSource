@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "859037328248",
+    "firebase_url": "https://smartlock-fc05a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartlock-fc05a",
+    "storage_bucket": "smartlock-fc05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859037328248:android:2a1524794e2cea30c01e8d",
+        "android_client_info": {
+          "package_name": "com.example.smart_lock_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859037328248-7ggsd5at1k13pbrbg3ui89h64cbqj57f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbh5fK5T5aKpdnV49VfT8TMZd6TkDjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859037328248-7ggsd5at1k13pbrbg3ui89h64cbqj57f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859037328248-o44nsts94fmbuaocq72k1g8fprvleqf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartLockSecurity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

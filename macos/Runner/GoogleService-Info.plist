@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>859037328248-o44nsts94fmbuaocq72k1g8fprvleqf3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.859037328248-o44nsts94fmbuaocq72k1g8fprvleqf3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByRthTIOdCQ83wzzFUaTXRzxJzmyTk5TI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>859037328248</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartLockSecurity</string>
+	<key>PROJECT_ID</key>
+	<string>smartlock-fc05a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartlock-fc05a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:859037328248:ios:3fe501b0b0a9a907c01e8d</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartlock-fc05a-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
